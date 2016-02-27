@@ -1,0 +1,76 @@
+body {
+    width: 80%;
+    margin: auto;
+    padding-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+}
+a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #0097A7;
+}
+
+#left-column {
+    width: 30%;
+    height: 100%;
+    float: left;
+    
+}
+#right-column {
+    width: 70%;
+    float: left;
+    height: 100%;
+}
+
+#title{
+    font-weight: bold;
+    line-height: 3px;
+}
+
+#email{
+    font-weight: bold;
+    line-height: 1px;
+    font-size: 14px;
+}
+
+.project {
+    border-bottom: 1px Solid Grey;
+    padding-bottom: 20px;
+}
+.sub-heading {
+    line-height: 0px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.description {
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+.banner-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.mockups {
+    padding-top: 20px;
+    float: none;
+    max-width: 100%;
+    display: inline-block;
+    max-height: 100%;
+}
+.mockup-container {
+    float: none;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+.mockup-image {
+    width: 32%;
+    float: left;
+    display: block;
+}
