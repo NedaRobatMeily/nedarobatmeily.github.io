@@ -7,6 +7,7 @@ body {
 h3 {
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 3px;
+    margin-top: 0px;
 }
 a {
     font-size: 14px;
@@ -28,18 +29,19 @@ a {
 
 #title{
     font-weight: bold;
-    line-height: 3px;
+    line-height: 15px;
 }
 
 #email{
     font-weight: bold;
-    line-height: 1px;
+    line-height: 15px;
     font-size: 14px;
 }
 
 .project {
     border-bottom: 1px Solid Grey;
     padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 .sub-heading {
     line-height: 0px;
